@@ -1,0 +1,76 @@
+body {
+    background: url('18.jpg') no-repeat;
+    background-size: cover;
+
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: inline;
+    float: left;
+    
+}
+
+#number1 {
+    width: 400px;
+    height: 100px;
+    background-color:#C7D0CC;
+    border-radius: 10px;
+}
+
+#number2 {
+    width: 400px;
+    height: 100px;
+    background-color:#C7D0CC;
+    border-radius: 10px;
+}
+
+.klick1 {
+    width: 80px;
+    height: 80px;
+    background-color: #3B3A3D; 
+    border-radius: 8px;
+}
+
+.klick2 {
+    width: 80px;
+    height: 80px;
+    background-color: #6E6C78;
+    border-radius: 8px; 
+}
+
+.klick3 {
+    width: 80px;
+    height: 80px;
+    background-color: #7AA899; 
+    border-radius: 8px;
+}
+
+.klick4 {
+    width: 80px;
+    height: 80px;
+    background-color: #8B7AA8;
+    border-radius: 8px; 
+}
+
+.klick5 {
+    width: 80px;
+    height: 80px;
+    background-color: #27263D;
+    border-radius: 8px; 
+}
+
+#res {
+    width: 400px;
+    height: 50px;
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 8px;
+    background: #C7D0CC;
+}
